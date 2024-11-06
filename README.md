@@ -21,7 +21,7 @@
 - 🌱 **Currently Mastering**: React, Redux, Node.js, MongoDB, and React Native.
 - 💡 **Excited to Collaborate On**: UI/UX projects and anything that involves innovative web solutions.
 - 📫 **Reach Me At**: [![Email](https://img.shields.io/badge/Email-tlhoxi12@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:tlhoxi12@gmail.com)
-- 😄 **Pronouns**: He/Him
+- 😄 **Pronouns**: She/Her
 - ⚡ **Fun Fact**: Despite holding an LLB degree, my true calling lies in the tech world!
 
 ---
